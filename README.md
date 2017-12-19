@@ -1,5 +1,5 @@
 # The #startupdetroit Code Of Conduct
-If you have any suggestions, please comment or submit a pull request.
+If you have any suggestions, please submit an [issue](https://github.com/startupdetroit/Code-Of-Conduct/issues) or submit a [pull request](https://github.com/startupdetroit/Code-Of-Conduct/pulls) with proposed changes.
 
 ## **Background**
 
