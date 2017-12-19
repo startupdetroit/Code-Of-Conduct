@@ -1,7 +1,6 @@
-# The #startupdetroit Code Of Conduct
-If you have any suggestions, please submit an [issue](https://github.com/startupdetroit/Code-Of-Conduct/issues) or submit a [pull request](https://github.com/startupdetroit/Code-Of-Conduct/pulls) with proposed changes.
-
-## **Background**
+# Code of Conduct | Startup Detroit
+## Background
+Why a Code of Conduct? Startup Detroit is an open source, community run project. 
 
 Online communities include people from many different backgrounds. The Startup Detroit contributors are committed to providing a friendly, safe and welcoming environment for all, regardless of age, disability, gender, nationality, ethnicity, religion, sexuality, or similar personal characteristic.
 
@@ -81,6 +80,9 @@ Moderators are chosen based on involvement and active interest in the community.
 As the community grows, elections will be held to nominate new moderators.
 
 If you wish to disclose anything anonymously, [please fill out this form.](https://docs.google.com/forms/d/1nAwpSTzwSoQanw70sH5qrN2hPMuSa3JkLu8VGUdyyP8/)
+
+## Comments
+If you have any suggestions, please submit an [issue](https://github.com/startupdetroit/Code-Of-Conduct/issues) or submit a [pull request](https://github.com/startupdetroit/Code-Of-Conduct/pulls) with proposed changes.
 
 ## **Acknowledgements**
 
